@@ -1,6 +1,5 @@
 # Patient-Admission-System
 MySQL Raw SQL Backend with Role-Based Access Control
-# Patient Admission System — MySQL + FastAPI (Raw SQL)
 
 A secure backend system for managing patient admissions in a healthcare-like environment. This project demonstrates role-based access control, manual SQL relationships, and authentication using JWT—all built from scratch using **FastAPI** and **MySQL** (via `mysql-connector`), without relying on an ORM.
 
