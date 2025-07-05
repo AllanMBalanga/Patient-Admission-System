@@ -21,7 +21,7 @@ A secure backend system for managing patient admissions in a healthcare-like env
   - Nested JSON responses created without an ORM
   - Custom functions simulate `.relationship` behavior from SQLAlchemy
 
-- 🛡**Security**
+- **Security**
   - Passwords hashed using **bcrypt**
   - Users can't access or modify unauthorized resources
   - Status codes: `200`, `201`, `204`, `400`, `403`, `404`
